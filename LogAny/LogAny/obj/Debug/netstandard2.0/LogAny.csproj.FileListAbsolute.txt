@@ -1,0 +1,12 @@
+D:\Applications\xamarin\LogAny\LogAny\LogAny\bin\Debug\netstandard2.0\LogAny.deps.json
+D:\Applications\xamarin\LogAny\LogAny\LogAny\bin\Debug\netstandard2.0\LogAny.dll
+D:\Applications\xamarin\LogAny\LogAny\LogAny\bin\Debug\netstandard2.0\LogAny.pdb
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\LogAny.csprojAssemblyReference.cache
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\LogAny.csproj.CoreCompileInputs.cache
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\LogAny.AssemblyInfoInputs.cache
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\LogAny.AssemblyInfo.cs
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\LogAny.dll
+D:\Applications\xamarin\LogAny\LogAny\LogAny\obj\Debug\netstandard2.0\LogAny.pdb
